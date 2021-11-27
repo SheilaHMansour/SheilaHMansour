@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SheilaHMansour
+- 👀 I’m interested in Machine Learning, data science, data analyse, python, deep learning, Artificiel intelligence
+- 🌱 I’m currently Student in mester 2 Business Intelligence
+- 📫 How to reach me *** chahla.hmansour@gmail.com *** Instagram : @shahloulamans *** Facebook : Chahla Mansour ***
